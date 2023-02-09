@@ -1,0 +1,38 @@
+﻿  CandyCrush.cpp
+C:\Users\LENOVO\source\repos\CandyCrush\CandyCrush\CandyCrush.cpp(1631,56): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\LENOVO\source\repos\CandyCrush\CandyCrush\CandyCrush.cpp(1951,68): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\LENOVO\source\repos\CandyCrush\CandyCrush\CandyCrush.cpp(1986,68): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\LENOVO\source\repos\CandyCrush\CandyCrush\CandyCrush.cpp(1990,69): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\LENOVO\source\repos\CandyCrush\CandyCrush\CandyCrush.cpp(2019,69): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\LENOVO\source\repos\CandyCrush\CandyCrush\CandyCrush.cpp(2023,69): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\LENOVO\source\repos\CandyCrush\CandyCrush\CandyCrush.cpp(2044,69): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\LENOVO\source\repos\CandyCrush\CandyCrush\CandyCrush.cpp(301): warning C4715: 'found_match_or_not': not all control paths return a value
+  CandyCrush.vcxproj -> C:\Users\LENOVO\source\repos\CandyCrush\x64\Debug\CandyCrush.exe
